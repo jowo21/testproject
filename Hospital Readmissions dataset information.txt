@@ -1,4 +1,4 @@
-About Dataset
+About this Dataset
 You have access to ten years of patient information (source):
 
 Information in the file
@@ -19,4 +19,5 @@ Information in the file
 "A1Ctest" - whether the A1C level of the patient came out as high (> 7%), normal, or not performed
 "change" - whether there was a change in the diabetes medication ('yes' or 'no')
 "diabetes_med" - whether a diabetes medication was prescribed ('yes' or 'no')
+
 "readmitted" - if the patient was readmitted at the hospital ('yes' or 'no')
